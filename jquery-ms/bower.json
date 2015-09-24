@@ -1,0 +1,23 @@
+{
+  "name": "JQuery Microsoft EDX",
+  "version": "0.0.0",
+  "authors": [
+    "khangal <khangaljargal@yahoo.com>"
+  ],
+  "description": "JQuery course",
+  "keywords": [
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
