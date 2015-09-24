@@ -1,0 +1,24 @@
+{
+  "name": "Bootstrap Microsoft EDX",
+  "version": "0.0.0",
+  "authors": [
+    "khangal <khangaljargal@yahoo.com>"
+  ],
+  "description": "Bootstrap 3-n sudalgaa",
+  "keywords": [
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "homepage": "test.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4"
+  }
+}
